@@ -2,5 +2,6 @@ bin/
 obj/
 dist/
 publish-out/
+packaging/installer-stage/
 .idea/
 .vs/
