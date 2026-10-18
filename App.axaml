@@ -1,0 +1,27 @@
+<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="Qingtu.App"
+             RequestedThemeVariant="Dark">
+    <Application.Styles>
+        <FluentTheme />
+    </Application.Styles>
+    <Application.Resources>
+        <Color x:Key="BgColor">#1A2629</Color>
+        <Color x:Key="CardColor">#1E2C30</Color>
+        <Color x:Key="InputColor">#26363C</Color>
+        <Color x:Key="TealColor">#48C4B6</Color>
+        <Color x:Key="OrangeColor">#E68C46</Color>
+        <Color x:Key="TextColor">#D2DADE</Color>
+        <Color x:Key="MutedColor">#828F96</Color>
+        <Color x:Key="BorderColor">#3A4C54</Color>
+
+        <SolidColorBrush x:Key="BgBrush" Color="{StaticResource BgColor}"/>
+        <SolidColorBrush x:Key="CardBrush" Color="{StaticResource CardColor}"/>
+        <SolidColorBrush x:Key="InputBrush" Color="{StaticResource InputColor}"/>
+        <SolidColorBrush x:Key="TealBrush" Color="{StaticResource TealColor}"/>
+        <SolidColorBrush x:Key="OrangeBrush" Color="{StaticResource OrangeColor}"/>
+        <SolidColorBrush x:Key="TextBrush" Color="{StaticResource TextColor}"/>
+        <SolidColorBrush x:Key="MutedBrush" Color="{StaticResource MutedColor}"/>
+        <SolidColorBrush x:Key="BorderBrush" Color="{StaticResource BorderColor}"/>
+    </Application.Resources>
+</Application>
