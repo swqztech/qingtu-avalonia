@@ -1,0 +1,7 @@
+轻图（Avalonia 版）— 绿色版
+
+双击 qingtu-avalonia.exe 或 启动.bat。
+
+需已安装 .NET 8 桌面运行时：https://dotnet.microsoft.com/download/dotnet/8.0
+
+本包为框架依赖发布（不含 .NET 运行时），体积较小。

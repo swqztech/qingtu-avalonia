@@ -8,3 +8,11 @@ dotnet run -c Release
 ```
 
 输出 exe：`bin/Release/net8.0/qingtu-avalonia.exe`
+
+## 绿色版（框架依赖，体积小）
+
+```bash
+bash packaging/build.sh
+```
+
+需本机已装 .NET 8 桌面运行时。
